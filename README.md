@@ -35,6 +35,7 @@
 
 ## Project 3: Tableau Monthly Marketing Report
 [Посилання](https://public.tableau.com/app/profile/marta.hontar/viz/MonthlyMarketingPerformance_17812486674660/Dashboard1)
+![Tableau Monthly Marketing Report](Screenshot%202026-08-22%20105302.png)
 
 Розробила Tableau-дашборд для щомісячного перегляду маркетингових бюджетів, який об'єднав ключові метрики ефективності рекламних каналів в одному звіті. Автоматизувала аналіз витрат, доходу та окупності маркетингових інвестицій, що дозволяє команді швидко приймати рішення щодо перерозподілу бюджету між каналами.
 
